@@ -34,4 +34,4 @@ npm run dev
 
 ### Contacts
 
-- [Carlos Pereira](carlos.m.pereira@inesctec.pt)
+- [Carlos Pereira] (carlos.m.pereira@inesctec.pt)
